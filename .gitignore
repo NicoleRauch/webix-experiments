@@ -1,0 +1,4 @@
+.idea
+package-lock.json
+react/node_modules
+react/build-js
